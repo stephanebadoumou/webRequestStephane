@@ -1,0 +1,9 @@
+C:\Users\Stephane\source\repos\WebRequestApiAssignment9\bin\Release\netcoreapp3.1\publish\WebRequestApiAssignment9.dll
+C:\Users\Stephane\source\repos\WebRequestApiAssignment9\bin\Release\netcoreapp3.1\publish\WebRequestApiAssignment9.deps.json
+C:\Users\Stephane\source\repos\WebRequestApiAssignment9\bin\Release\netcoreapp3.1\publish\WebRequestApiAssignment9.runtimeconfig.json
+C:\Users\Stephane\source\repos\WebRequestApiAssignment9\bin\Release\netcoreapp3.1\publish\WebRequestApiAssignment9.pdb
+C:\Users\Stephane\source\repos\WebRequestApiAssignment9\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\Stephane\source\repos\WebRequestApiAssignment9\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\Stephane\source\repos\WebRequestApiAssignment9\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.Json.dll
+C:\Users\Stephane\source\repos\WebRequestApiAssignment9\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Stephane\source\repos\WebRequestApiAssignment9\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
